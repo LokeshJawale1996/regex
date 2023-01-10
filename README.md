@@ -28,7 +28,7 @@
 | :-: | :----------------------------: | :-------: |
 | 01  |    [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem?isFullScreen=true)    | [Code](./character%20class/Matching_specific_characters.js)  |
 | 02  |    [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem)    | [Code](./character%20class/Excluding_Specific_Characters.js)  |
-
+| 03  |    [Matching Characters Ranges](https://www.hackerrank.com/challenges/matching-range-of-characters/problem)    | [Code](./character%20class/Matching_Character_Ranges.js)  |
 
 ### 3)Grouping and capturing
 

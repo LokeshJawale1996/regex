@@ -37,6 +37,9 @@
 | :-: | :----------------------------: | :-------: |
 | 01  |    [Matching {x} repeatations](https://www.hackerrank.com/challenges/matching-x-repetitions/problem?isFullScreen=true)     | [Code](./repeatations/Matching_%7Bx%7D_Repetitions.js)  |
 | 02  |    [Matching {x,y} repeatations](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)     | [Code](./repeatations/Matching_%7Bx%2C%20y%7D%20_Repetitions.js)  |
+| 03  |    [Matching Zero Or More repeatations](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)     | [Code](./repeatations/Matching%20_Zero_Or_More_Repetitions.js)  |
+| 04  |    [Matching One Or More Repeatations](https://www.hackerrank.com/challenges/matching-one-or-more-repititions/problem?h_r=next-challenge&h_v=zen&isFullScreen=false&h_r=next-challenge&h_v=zen)     | [Code](./repeatations/Matching_One_Or_More_Repetitions.js)  |
+| 05  |    [Matching Ending items](https://www.hackerrank.com/challenges/matching-ending-items/problem?h_r=next-challenge&h_v=zen&isFullScreen=false&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)     | [Code](./repeatations/Matching%20_Ending_Items.js)  |
 
 ### 4)Grouping and capturing
 

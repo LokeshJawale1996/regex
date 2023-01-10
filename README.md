@@ -30,7 +30,15 @@
 | 02  |    [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem)    | [Code](./character%20class/Excluding_Specific_Characters.js)  |
 | 03  |    [Matching Characters Ranges](https://www.hackerrank.com/challenges/matching-range-of-characters/problem)    | [Code](./character%20class/Matching_Character_Ranges.js)  |
 
-### 3)Grouping and capturing
+
+### 3)Repeatations
+
+|  #  |            Topic             | Source Code |
+| :-: | :----------------------------: | :-------: |
+| 01  |    [Matching {x} repeatations](https://www.hackerrank.com/challenges/matching-x-repetitions/problem?isFullScreen=true)     | [Code](./repeatations/Matching_%7Bx%7D_Repetitions.js)  |
+| 02  |    [Matching {x,y} repeatations](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)     | [Code](./repeatations/Matching_%7Bx%2C%20y%7D%20_Repetitions.js)  |
+
+### 4)Grouping and capturing
 
 |  #  |            Topic             | Source Code |
 | :-: | :----------------------------: | :-------: |

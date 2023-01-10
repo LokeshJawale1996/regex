@@ -22,7 +22,15 @@
 | 04  |    [Matching Start and end](https://www.hackerrank.com/challenges/matching-start-end/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)     | [Code](./Intoduction/Matching_start_and-end.js)  |
 | 05  |    [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem?isFullScreen=true)     | [Code](./Intoduction/Matching_anything-but_a_newline.js)  |
 
-### 2)Grouping and capturing
+### 2)Character Class
+
+|  #  |            Topic             | Source Code |
+| :-: | :----------------------------: | :-------: |
+| 01  |    [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem?isFullScreen=true)    | [Code](./character%20class/Matching_specific_characters.js)  |
+| 02  |    [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem)    | [Code](./character%20class/Excluding_Specific_Characters.js)  |
+
+
+### 3)Grouping and capturing
 
 |  #  |            Topic             | Source Code |
 | :-: | :----------------------------: | :-------: |

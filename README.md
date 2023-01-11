@@ -48,3 +48,12 @@
 | 01  |    [Matching word boundries](https://www.hackerrank.com/challenges/matching-word-boundaries/problem?isFullScreen=true)     | [Code](./Grouping%20and%20capturing/Matching_word_boundries.js)  |
 | 02  |    [Capturing & Non-Capturing Groups](https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem?isFullScreen=true)     | [Code](./Grouping%20and%20capturing/Capturing_%26_Non-Capturing_Groups.js)  |
 | 03  |    [Alternative Matching](https://www.hackerrank.com/challenges/alternative-matching/problemg)     | [Code](./Grouping%20and%20capturing/Alternative_Matching.js)  |
+
+
+### 5)Backreferences
+
+|  #  |            Topic             | Source Code |
+| :-: | :----------------------------: | :-------: |
+| 01  |    [Matching Same Text Again & Again](https://www.hackerrank.com/challenges/matching-same-text-again-again/problem)     | [Code](./Backreferences/Matching_Same_Text_Again_%26_Again.js)  |
+
+
